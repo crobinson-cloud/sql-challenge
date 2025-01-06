@@ -1,3 +1,4 @@
 # sql-challenge
 Module 9 sql-challenge
-For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data
+
+For this project, tables were designed to showcase data from the CSV files that contained info on employees of Pewlett Hackard company from 1980-1990. The CSV files were uploaded to the database and the data was analyzed.
